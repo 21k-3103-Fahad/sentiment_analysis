@@ -37,3 +37,8 @@
 3- Moneka <br>
 4- Hassan <br>
 5- Shaeel <br>
+
+## Screenshots:
+![model image 2](https://github.com/user-attachments/assets/c90ad402-1b36-4cd5-9a66-e60449ce49c6)
+![model image](https://github.com/user-attachments/assets/7ab49720-9603-41ef-bcd3-d83746a18a8f)
+
