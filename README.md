@@ -11,8 +11,8 @@
      3- Run all cells present under the heading
      
 ### Running from the Python file:
-   1- Ensure all the model files, tokenizer and vectorizer are present in the same directory as the Python file
-   2- Open the Python file in your desired IDE and run
+     1- Ensure all the model files, tokenizer and vectorizer are present in the same directory as the Python file
+     2- Open the Python file in your desired IDE and run
 
 ## **MODEL ACCURACY**:
   |Model \ Data Split| Training Set | Test Set |
@@ -32,8 +32,8 @@
 
 
 ## Team Members:
-1- Fahad
-2- Malaika
-3- Moneka
-4- Hassan
-5- Shaeel
+1- Fahad <br>
+2- Malaika <br>
+3- Moneka <br>
+4- Hassan <br>
+5- Shaeel <br>
