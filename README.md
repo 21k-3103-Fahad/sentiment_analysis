@@ -27,6 +27,9 @@
   |:---:|:---:|:---:|
   | Logistic Regression | 0.04 | 0.36  |
   | Random Forest | 0.45 | 1.09 |
+  | MultinomialNB | 0.35 | 0.87 |
+  | LSTM |  0.08 |  0.58 |
+
 
 ## Team Members:
 1- Fahad
@@ -34,5 +37,3 @@
 3- Moneka
 4- Hassan
 5- Shaeel
-  | MultinomialNB | 0.35 | 0.87 |
-  | LSTM |  0.08 |  0.58 |
